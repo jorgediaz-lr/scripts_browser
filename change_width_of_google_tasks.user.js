@@ -20,15 +20,15 @@ function resize() {
 
   for (var div of div_bRcSk) {
     div.classList.remove("bRcSk");
-    div.setAttribute("style","width:800px");
-    div.setAttribute("style","max-width:800px");
+    div.setAttribute("style","width:900px");
+    div.setAttribute("style","max-width:900px");
     div.setAttribute('processed', 'true');
   }
 
   var div_PV0kIb = Array.from(document.querySelectorAll('div.PV0kIb:not([processed="true"]'));
 
   for (var div of div_PV0kIb) {
-    div.setAttribute("style","width:800px");
+    div.setAttribute("style","width:900px");
     div.setAttribute('processed', 'true');
   }
 }

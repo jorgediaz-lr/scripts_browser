@@ -1,0 +1,6 @@
+Add JIRA Order By Dividers:		https://raw.githubusercontent.com/holatuwol/liferay-faster-deploy/master/userscripts/jira_divider.user.js
+GitHub Link to LPS Tickets:		https://raw.githubusercontent.com/holatuwol/liferay-faster-deploy/master/userscripts/github_link_jira.user.js",
+Liferay Functional Test IDE:	https://raw.githubusercontent.com/holatuwol/liferay-faster-deploy/master/userscripts/testray_ide.user.js",
+Patcher Read-Only Views Links:	https://raw.githubusercontent.com/holatuwol/liferay-faster-deploy/master/userscripts/patcher.user.js
+Wide GitHub:					https://raw.githubusercontent.com/xthexder/wide-github/master/build/wide-github.user.js",
+ZenDesk for TSEs:				https://raw.githubusercontent.com/holatuwol/liferay-faster-deploy/master/userscripts/zendesk.user.js

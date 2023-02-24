@@ -3,6 +3,8 @@
 // @namespace   jorgediaz-lr
 // @match       https://tasks.google.com/*
 // @version     1.0
+// @updateURL      https://github.com/jorgediaz-lr/scripts_browser/raw/master/change_width_of_google_tasks.user.js
+// @downloadURL    https://github.com/jorgediaz-lr/scripts_browser/raw/master/change_width_of_google_tasks.user.js
 // @author      -
 // @description 24/02/2023, 14:30:45
 // ==/UserScript==
